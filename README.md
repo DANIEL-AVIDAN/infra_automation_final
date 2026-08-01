@@ -1,5 +1,3 @@
-# python-final-project
-
 # Infrastructure Provisioning Simulator
 
 ## Overview
