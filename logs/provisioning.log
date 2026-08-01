@@ -1,0 +1,3 @@
+[2026-08-01 20:25:40] FAILED - Machine 'VM5' - cpu: Input should be a valid integer, unable to parse string as an integer
+[2026-08-01 20:25:40] FAILED - Machine 'VM5' - ram: Input should be a valid integer, unable to parse string as an integer
+[2026-08-01 20:26:08] SUCCESS - Machine 'VM1' deleted successfully.
