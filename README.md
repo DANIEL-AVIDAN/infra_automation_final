@@ -1,5 +1,40 @@
 # Infrastructure Provisioning Simulator
 
+# Quick Start
+
+Clone the repository:
+
+```bash
+git clone https://github.com/DANIEL-AVIDAN/infra_automation_final
+```
+
+Navigate to the project directory:
+
+```bash
+cd infra_automation_final
+```
+
+Use branch main1:
+
+```bash
+git checkout main1
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+python src/infra_simulator.py
+```
+
+---
+
+
 ## Overview
 
 Infrastructure Provisioning Simulator is a Python-based CLI application that simulates infrastructure provisioning.
